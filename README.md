@@ -22,7 +22,7 @@ Normally obstacle avoidance is considered to be distinct from path planning in t
 <h2>Truth Table</h2>
 <p align="center"><img width="700" align="center"  src=https://user-images.githubusercontent.com/109975786/210129492-ccaf5388-44c9-454b-89a1-67c598df89af.png></p>
 <h2>Conclusion</h2>
-Almost all navigation robot demands the same sort of obstacle detection, hence obstacle avoidance strategy is of the most importance. Obstacle Avoidance robot has a vast field of application. They can be used as service robots, for the purpose of household work and so many other indoor applications.  In conclusion Obstacle Avoidance is widely researched and applied in the world and it is probable that most robots in the future should have Obstacle Avoidance function.
+<pre>Almost all navigation robot demands the same sort of obstacle detection, hence obstacle avoidance strategy is of the most importance. Obstacle Avoidance robot has a vast field of application. They can be used as service robots, for the purpose of household work and so many other indoor applications.  In conclusion Obstacle Avoidance is widely researched and applied in the world and it is probable that most robots in the future should have Obstacle Avoidance function.</pre>
 
 
 
